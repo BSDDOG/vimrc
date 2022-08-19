@@ -1,0 +1,21 @@
+" SHOW line numbers.
+set number
+
+" Show the ruler
+set ruler
+
+" SHOW the current mode.
+set showmode
+
+" Tab
+set tabstop=8
+set shiftwidth=8
+
+" Disable Highlight Matched Parentheses
+set noshowmatch
+
+" Ignore case in search
+set ignorecase
+
+" Copy indent from current line when starting a new line
+set autoindent
