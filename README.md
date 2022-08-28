@@ -6,7 +6,7 @@ Both .vimrc and .exrc config files work on OpenBSD, Windows & Linux. They work o
 vimrc works for vim and gvim, and exrc for vi and nvi.
 
 ## Background
-First, it was OpenBSD only. But I wanted a single config file. I had different .vimrc and .exrc files for different OSes. It wasn't okay! Thus I've mixed them up in one single file. As a result, some of the configurations may not be your cup of tee(1). So, fill free to ditch them out! There are two versions of each files (both vimrc and exrc) with and without comment. I prefer the latter, and to RTFM and STFW.
+At first, it was OpenBSD only. But I wanted a single config file. I had different .vimrc and .exrc files for different OSes. It wasn't okay! Thus I've mixed them up in one single file. As a result, some of the configurations may not be your cup of tee(1). So, fill free to ditch them out! There are two versions of each files (both vimrc and exrc) with and without comment. I prefer the latter, and to RTFM and STFW.
 
 ## Features
 
